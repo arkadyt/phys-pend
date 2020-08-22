@@ -1,0 +1,181 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+mtllib WHEEL.obj.mtl
+
+# 24 vertex positions
+v  24 0 8
+v  24 0 -8
+v  21 12 8
+v  21 12 -8
+v  21 -12 -8
+v  21 -12 8
+v  12 -21 -8
+v  0 -24 -8
+v  12 21 -8
+v  -12 -21 -8
+v  0 24 -8
+v  -21 -12 -8
+v  -12 21 -8
+v  -24 0 -8
+v  -21 12 -8
+v  12 21 8
+v  0 24 8
+v  12 -21 8
+v  -12 21 8
+v  0 -24 8
+v  -21 12 8
+v  -12 -21 8
+v  -24 0 8
+v  -21 -12 8
+
+# 32 UV coordinates
+vt 1 0.9375 1
+vt 1 1.0625 1
+vt 0.90625 0.9375 1
+vt 0.90625 1.0625 1
+vt 0.09375 0.0625 1
+vt -0 0.0625 1
+vt 0.09375 -0.0625 1
+vt 0 -0.0625 1
+vt 0.164063 0.90625 1
+vt 0.09375 1.16406 1
+vt 0 1.1875 1
+vt 0.1875 1 1
+vt 0.09375 0.835938 1
+vt 0.164063 1.09375 1
+vt -0.09375 1.16406 1
+vt 0 0.8125 1
+vt -0.164063 1.09375 1
+vt -0.09375 0.835938 1
+vt -0.1875 1 1
+vt -0.164063 0.90625 1
+vt 0.40625 0.9375 1
+vt 0.40625 1.0625 1
+vt 0.335938 0.9375 1
+vt 0.335938 1.0625 1
+vt 0.839844 1.0625 1
+vt 0.839844 0.9375 1
+vt 0.910156 0.9375 1
+vt 0.910156 1.0625 1
+vt 0.09375 1.0625 1
+vt 0 1.0625 1
+vt 0 0.9375 1
+vt 0.09375 0.9375 1
+
+# 14 vertex normals
+vn 0.970142 0.242536 0
+vn 0.970142 -0.242536 0
+vn 0 0 -1
+vn 0.707107 0.707107 0
+vn 0 0 1
+vn 0.707107 -0.707107 0
+vn 0.242536 0.970142 0
+vn 0.242536 -0.970142 0
+vn -0.242536 0.970142 0
+vn -0.242536 -0.970142 -0
+vn -0.707107 0.707107 0
+vn -0.707107 -0.707107 -0
+vn -0.970142 0.242536 0
+vn -0.970142 -0.242536 -0
+
+# Mesh 'mat1model0surf0' with 2 faces
+g mat1model0surf0
+usemtl textures/phys/holz2
+f  1/1/1 2/2/1 3/3/1
+f  2/2/1 4/4/1 3/3/1
+
+# Mesh 'mat1model0surf1' with 2 faces
+g mat1model0surf1
+usemtl textures/phys/holz2
+f  5/5/2 2/6/2 6/7/2
+f  2/6/2 1/8/2 6/7/2
+
+# Mesh 'mat1model0surf2' with 10 faces
+g mat1model0surf2
+usemtl textures/phys/holz2
+f  4/9/3 7/10/3 8/11/3
+f  4/9/3 2/12/3 7/10/3
+f  4/9/3 8/11/3 9/13/3
+f  7/10/3 2/12/3 5/14/3
+f  8/11/3 10/15/3 9/13/3
+f  9/13/3 10/15/3 11/16/3
+f  10/15/3 12/17/3 11/16/3
+f  11/16/3 12/17/3 13/18/3
+f  12/17/3 14/19/3 13/18/3
+f  13/18/3 14/19/3 15/20/3
+
+# Mesh 'mat1model0surf3' with 2 faces
+g mat1model0surf3
+usemtl textures/phys/holz2
+f  3/21/4 4/22/4 16/23/4
+f  4/22/4 9/24/4 16/23/4
+
+# Mesh 'mat1model0surf4' with 10 faces
+g mat1model0surf4
+usemtl textures/phys/holz2
+f  16/13/5 17/16/5 6/14/5
+f  1/12/5 16/13/5 6/14/5
+f  6/14/5 17/16/5 18/10/5
+f  1/12/5 3/9/5 16/13/5
+f  17/16/5 19/18/5 18/10/5
+f  18/10/5 19/18/5 20/11/5
+f  19/18/5 21/20/5 20/11/5
+f  20/11/5 21/20/5 22/15/5
+f  21/20/5 23/19/5 22/15/5
+f  22/15/5 23/19/5 24/17/5
+
+# Mesh 'mat1model0surf5' with 2 faces
+g mat1model0surf5
+usemtl textures/phys/holz2
+f  5/25/6 6/26/6 18/27/6
+f  7/28/6 5/25/6 18/27/6
+
+# Mesh 'mat1model0surf6' with 2 faces
+g mat1model0surf6
+usemtl textures/phys/holz2
+f  9/29/7 11/30/7 17/31/7
+f  16/32/7 9/29/7 17/31/7
+
+# Mesh 'mat1model0surf7' with 2 faces
+g mat1model0surf7
+usemtl textures/phys/holz2
+f  7/29/8 18/32/8 20/31/8
+f  8/30/8 7/29/8 20/31/8
+
+# Mesh 'mat1model0surf8' with 2 faces
+g mat1model0surf8
+usemtl textures/phys/holz2
+f  11/2/9 13/4/9 19/3/9
+f  17/1/9 11/2/9 19/3/9
+
+# Mesh 'mat1model0surf9' with 2 faces
+g mat1model0surf9
+usemtl textures/phys/holz2
+f  10/4/10 8/2/10 22/3/10
+f  8/2/10 20/1/10 22/3/10
+
+# Mesh 'mat1model0surf10' with 2 faces
+g mat1model0surf10
+usemtl textures/phys/holz2
+f  13/24/11 15/22/11 21/21/11
+f  19/23/11 13/24/11 21/21/11
+
+# Mesh 'mat1model0surf11' with 2 faces
+g mat1model0surf11
+usemtl textures/phys/holz2
+f  12/25/12 10/28/12 24/26/12
+f  10/28/12 22/27/12 24/26/12
+
+# Mesh 'mat1model0surf12' with 2 faces
+g mat1model0surf12
+usemtl textures/phys/holz2
+f  15/4/13 14/2/13 23/1/13
+f  21/3/13 15/4/13 23/1/13
+
+# Mesh 'mat1model0surf13' with 2 faces
+g mat1model0surf13
+usemtl textures/phys/holz2
+f  12/5/14 24/7/14 23/8/14
+f  14/6/14 12/5/14 23/8/14
+

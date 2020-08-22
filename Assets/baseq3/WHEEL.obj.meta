@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: ad90c9b2a69d1ae42b515ead9444c973
+timeCreated: 1428114575
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: mat1model0surf0
+    100002: mat1model0surf1
+    100004: mat1model0surf10
+    100006: mat1model0surf11
+    100008: mat1model0surf12
+    100010: mat1model0surf13
+    100012: mat1model0surf2
+    100014: mat1model0surf3
+    100016: mat1model0surf4
+    100018: mat1model0surf5
+    100020: mat1model0surf6
+    100022: mat1model0surf7
+    100024: mat1model0surf8
+    100026: mat1model0surf9
+    100028: //RootNode
+    400000: mat1model0surf0
+    400002: mat1model0surf1
+    400004: mat1model0surf10
+    400006: mat1model0surf11
+    400008: mat1model0surf12
+    400010: mat1model0surf13
+    400012: mat1model0surf2
+    400014: mat1model0surf3
+    400016: mat1model0surf4
+    400018: mat1model0surf5
+    400020: mat1model0surf6
+    400022: mat1model0surf7
+    400024: mat1model0surf8
+    400026: mat1model0surf9
+    400028: //RootNode
+    2300000: mat1model0surf0
+    2300002: mat1model0surf1
+    2300004: mat1model0surf10
+    2300006: mat1model0surf11
+    2300008: mat1model0surf12
+    2300010: mat1model0surf13
+    2300012: mat1model0surf2
+    2300014: mat1model0surf3
+    2300016: mat1model0surf4
+    2300018: mat1model0surf5
+    2300020: mat1model0surf6
+    2300022: mat1model0surf7
+    2300024: mat1model0surf8
+    2300026: mat1model0surf9
+    3300000: mat1model0surf0
+    3300002: mat1model0surf1
+    3300004: mat1model0surf10
+    3300006: mat1model0surf11
+    3300008: mat1model0surf12
+    3300010: mat1model0surf13
+    3300012: mat1model0surf2
+    3300014: mat1model0surf3
+    3300016: mat1model0surf4
+    3300018: mat1model0surf5
+    3300020: mat1model0surf6
+    3300022: mat1model0surf7
+    3300024: mat1model0surf8
+    3300026: mat1model0surf9
+    4300000: mat1model0surf0
+    4300002: mat1model0surf1
+    4300004: mat1model0surf10
+    4300006: mat1model0surf11
+    4300008: mat1model0surf12
+    4300010: mat1model0surf13
+    4300012: mat1model0surf2
+    4300014: mat1model0surf3
+    4300016: mat1model0surf4
+    4300018: mat1model0surf5
+    4300020: mat1model0surf6
+    4300022: mat1model0surf7
+    4300024: mat1model0surf8
+    4300026: mat1model0surf9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

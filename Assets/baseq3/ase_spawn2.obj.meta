@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 681fd94684941964db750cbd788822c9
+timeCreated: 1428490372
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: mat1model0surf17
+    100004: mat2model0surf0
+    100006: mat2model0surf1
+    100008: mat2model0surf10
+    100010: mat2model0surf11
+    100012: mat2model0surf2
+    100014: mat2model0surf3
+    100016: mat2model0surf4
+    100018: mat2model0surf5
+    100020: mat2model0surf6
+    100022: mat2model0surf7
+    100024: mat2model0surf8
+    100026: mat2model0surf9
+    100028: mat4model0surf12
+    100030: mat4model0surf13
+    100032: mat4model0surf14
+    100034: mat4model0surf15
+    100036: mat4model0surf16
+    400000: //RootNode
+    400002: mat1model0surf17
+    400004: mat2model0surf0
+    400006: mat2model0surf1
+    400008: mat2model0surf10
+    400010: mat2model0surf11
+    400012: mat2model0surf2
+    400014: mat2model0surf3
+    400016: mat2model0surf4
+    400018: mat2model0surf5
+    400020: mat2model0surf6
+    400022: mat2model0surf7
+    400024: mat2model0surf8
+    400026: mat2model0surf9
+    400028: mat4model0surf12
+    400030: mat4model0surf13
+    400032: mat4model0surf14
+    400034: mat4model0surf15
+    400036: mat4model0surf16
+    2300000: mat1model0surf17
+    2300002: mat2model0surf0
+    2300004: mat2model0surf1
+    2300006: mat2model0surf10
+    2300008: mat2model0surf11
+    2300010: mat2model0surf2
+    2300012: mat2model0surf3
+    2300014: mat2model0surf4
+    2300016: mat2model0surf5
+    2300018: mat2model0surf6
+    2300020: mat2model0surf7
+    2300022: mat2model0surf8
+    2300024: mat2model0surf9
+    2300026: mat4model0surf12
+    2300028: mat4model0surf13
+    2300030: mat4model0surf14
+    2300032: mat4model0surf15
+    2300034: mat4model0surf16
+    3300000: mat1model0surf17
+    3300002: mat2model0surf0
+    3300004: mat2model0surf1
+    3300006: mat2model0surf10
+    3300008: mat2model0surf11
+    3300010: mat2model0surf2
+    3300012: mat2model0surf3
+    3300014: mat2model0surf4
+    3300016: mat2model0surf5
+    3300018: mat2model0surf6
+    3300020: mat2model0surf7
+    3300022: mat2model0surf8
+    3300024: mat2model0surf9
+    3300026: mat4model0surf12
+    3300028: mat4model0surf13
+    3300030: mat4model0surf14
+    3300032: mat4model0surf15
+    3300034: mat4model0surf16
+    4300000: mat1model0surf17
+    4300002: mat2model0surf0
+    4300004: mat2model0surf1
+    4300006: mat2model0surf10
+    4300008: mat2model0surf11
+    4300010: mat2model0surf2
+    4300012: mat2model0surf3
+    4300014: mat2model0surf4
+    4300016: mat2model0surf5
+    4300018: mat2model0surf6
+    4300020: mat2model0surf7
+    4300022: mat2model0surf8
+    4300024: mat2model0surf9
+    4300026: mat4model0surf12
+    4300028: mat4model0surf13
+    4300030: mat4model0surf14
+    4300032: mat4model0surf15
+    4300034: mat4model0surf16
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
